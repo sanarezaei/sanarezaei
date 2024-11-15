@@ -1,3 +1,5 @@
+![logo](https://github.com/sanarezaei/sanarezaei/blob/main/2.png)
+
 <h1 align="center">Hi 👋, I'm Sana</h1>
 <h3 align="center">A passionate backend and software developer from Iran</h3>
 
